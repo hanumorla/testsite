@@ -6,6 +6,10 @@ const FormHandling=()=>{
             <input type="text" name="fname" id="fname"/>
         </div>
         <div>
+            <label htmlFor="lname">LastName</label>
+            <input type="text" name="lname" id="lname"/>
+        </div>
+        <div>
             <button type="submit">Register</button>
         </div>
     </form>
